@@ -1,0 +1,22 @@
+{
+  "name": "liveOrderBoard",
+  "version": "1.0.0",
+  "description": "A live order board to register and manage the orders in real-time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreyanshPrakash/liveOrderBoard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShreyanshPrakash/liveOrderBoard/issues"
+  },
+  "homepage": "https://github.com/ShreyanshPrakash/liveOrderBoard#readme",
+  "devDependencies": {
+  }
+}
