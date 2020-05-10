@@ -131,7 +131,6 @@ class LiveBoard{
         if( this.itemSummary.has(item.pricePerKg) ){
             let similarItem = this.itemSummary.get( item.pricePerKg )
             similarItem.similarOrder.push( item.hashId );
-            console.log( item.orderType, similarItem.orderType, item.orderType == similarItem.orderType )
             if( item.orderType == similarItem.orderType ){
                 similarItem.orderQuantity += item.orderQuantity;
             }else{

@@ -1,6 +1,6 @@
 {
-  "name": "liveOrderBoard",
-  "version": "1.0.0",
+  "name": "liveorderboard",
+  "version": "1.0.1",
   "description": "A live order board to register and manage the orders in real-time",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,8 @@
     "url": "https://github.com/ShreyanshPrakash/liveOrderBoard/issues"
   },
   "homepage": "https://github.com/ShreyanshPrakash/liveOrderBoard#readme",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
+    "typescript": "^3.8.3"
   }
 }
